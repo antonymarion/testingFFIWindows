@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antonymarion/testingFFIWindows/issues"
   },
-  "homepage": "https://github.com/antonymarion/testingFFIWindows#readme"
+  "homepage": "https://github.com/antonymarion/testingFFIWindows#readme",
+  "devDependencies": {
+    "ffi-napi": "^3.1.0"
+  }
 }
